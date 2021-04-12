@@ -22,3 +22,6 @@ function honraTeuNome() {
 function aFlorestaDoPiano() {
     window.open("https://www.netflix.com/title/80986797","_blank","width=990, height=500, top=70, left=130")
 }
+function theK2() {
+    window.open("https://www.netflix.com/br/title/80188730","_blank","width=990, height=500, top=70, left=130")
+}
