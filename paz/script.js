@@ -23,7 +23,7 @@ function bibliografia() {
     window.open("https://drive.google.com/file/d/1FFi9ICAwuOjoMnTaDVXl4YPi3Ts-bLyZ/view?usp=sharing","_blank","width=990, height=500, top=70, left=130")
 }
 function propostasDePaz() {
-    window.open("http://www.culturadepaz.org.br/propostas/","_blank","width=990, height=500, top=70, left=130")
+    window.open("http://www.culturadepaz.org.br/propostas/","_blank","width=990, height=500, top=70, left=130").scrollBy(500,500)
 }
 function pp2021EmIngles() {
     window.open("https://www.daisakuikeda.org/assets/files/peaceproposal2021.pdf","_blank","width=990, height=500, top=70, left=130")
