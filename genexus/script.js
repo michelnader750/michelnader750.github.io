@@ -10,3 +10,4 @@ function DesignSystem() {
 function GeneXusTraining() {
     window.open("https://training.genexus.com/pt/","_blank","width=990, height=500, top=70, left=130")
 }
+ 
